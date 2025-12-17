@@ -115,8 +115,6 @@ Both models provide detailed performance metrics including:
 - DataCamp. Complete guide to data augmentation.
 - Kaggle Dataset: chest-xray-pneumonia
 
-Note: This project is for educational and demonstration purposes. Medical diagnosis should always be performed by qualified healthcare professionals.
-
 ---
 
 **Note**: This project is for educational and demonstration purposes. Medical diagnosis should always be performed by qualified healthcare professionals.
